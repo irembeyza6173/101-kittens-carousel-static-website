@@ -4,7 +4,7 @@ Description: |
 
 Resources:
 
-  MyWebServer:
+ MyWebServer:
   Type: AWS::EC2::Instance
   Properties:
     ImageId: ami-04cb4ca688797756f
